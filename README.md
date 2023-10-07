@@ -14,9 +14,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="ClaudeStGermaine | LinkedIn" width="22px" src="https://www.linkedin.com/in/claude-st-germaine-92030a279/" />]
-
-[linkedin]: (https://linkedin.com/in/claude-st-germaine](https://www.linkedin.com/in/claude-st-germaine-92030a279/)
+[linkedin]: (https://www.linkedin.com/in/claude-st-germaine-92030a279/](https://www.linkedin.com/in/claude-st-germaine-92030a279/)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

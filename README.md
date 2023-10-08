@@ -14,9 +14,9 @@
 
 <h2> 🤳 Certifications:</h2>
 
- - [Google Cybersecurity]
- - [TryHackMe SOC Level 1]
- - [CompTIA Security+]
+ - [Google Cybersecurity](https://imgur.com/a/zeMVhlB)
+ - [TryHackMe SOC Level 1](https://imgur.com/a/ElrJimt)
+ - [CompTIA Security+](https://imgur.com/a/LNt0N1S)
 
 [linkedin]: (https://www.linkedin.com/in/claude-st-germaine-92030a279/](https://www.linkedin.com/in/claude-st-germaine-92030a279/)
 

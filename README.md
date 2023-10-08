@@ -12,25 +12,10 @@
   - [FIM (File Integrity Monitor)](https://medium.com/@claudestgermaine95/a-simple-file-integrity-monitor-with-powershell-240692945e4e)
 
 
-<h2> 🤳 Certifications:</h2>
+ - <b> 📜 Certifications:</b>
 
- - [Google Cybersecurity](https://imgur.com/a/zeMVhlB)
- - [TryHackMe SOC Level 1](https://imgur.com/a/ElrJimt)
- - [CompTIA Security+](https://imgur.com/a/LNt0N1S)
+  - [Google Cybersecurity](https://imgur.com/a/zeMVhlB)
+  - [TryHackMe SOC Level 1](https://imgur.com/a/ElrJimt)
+  - [CompTIA Security+](https://imgur.com/a/LNt0N1S)
 
-[linkedin]: (https://www.linkedin.com/in/claude-st-germaine-92030a279/](https://www.linkedin.com/in/claude-st-germaine-92030a279/)
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

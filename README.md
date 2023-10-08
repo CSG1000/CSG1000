@@ -12,7 +12,11 @@
   - [FIM (File Integrity Monitor)](https://medium.com/@claudestgermaine95/a-simple-file-integrity-monitor-with-powershell-240692945e4e)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Certifications:</h2>
+
+ - [Google Cybersecurity]
+ - [TryHackMe SOC Level 1]
+ - [CompTIA Security+]
 
 [linkedin]: (https://www.linkedin.com/in/claude-st-germaine-92030a279/](https://www.linkedin.com/in/claude-st-germaine-92030a279/)
 

@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Latest Project </b>
-  - [Creating my resume with Azure Functions, Blog Storage, Cosmos DB and GitHub actions](https://www.claudestgermaine.site/)(https://github.com/CSG1000/azure-resume)
+  - [Creating my resume with Azure Functions, Blog Storage, Cosmos DB and GitHub actions](https://www.claudestgermaine.site/)
   - [link to repo](https://github.com/CSG1000/azure-resume)
 
 - <b>Data Security and Compliance Implementation </b>

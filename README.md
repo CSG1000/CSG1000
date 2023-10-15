@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Latest Project </b>
+  - [Creating my resume with Azure Functions, Blog Storage, Cosmos DB and GitHub actions](https://www.claudestgermaine.site/)
+  - [link to repo](https://github.com/CSG1000/azure-resume)
+
 - <b>Data Security and Compliance Implementation </b>
   - [HIPAA, HITECH, PCI DSS & PII](https://medium.com/@claudestgermaine95/securing-health-forward-navigating-hipaa-hitech-and-pci-dss-compliance-with-nist-rmf-bdc397ebe1db)
   - [Nessus Vulnerability Configuration & Scanning](https://medium.com/@claudestgermaine95/nessus-vulnerability-management-f56ef5c40c1e)
